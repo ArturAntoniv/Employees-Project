@@ -1,5 +1,5 @@
 
-#Firstly change direction to my-app
+# Firstly change direction to MY-APP
 
 # Getting Started with Create React App
 
